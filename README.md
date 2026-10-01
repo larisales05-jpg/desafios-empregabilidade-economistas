@@ -2,15 +2,13 @@
 
 A transição para o mercado de trabalho impõe sérios desafios aos recém-graduados em Ciências Econômicas, sobretudo pelas barreiras encontradas na colocação profissional. A inserção inadequada de economistas recém-formados gera impactos negativos tanto na esfera econômica quanto na social. Por um lado, o subaproveitamento desses profissionais resulta na perda de produtividade local, privando empresas e órgãos públicos de uma alocação eficiente em posições analíticas e estratégicas que poderiam acelerar a eficiência regional. Por outro, o desemprego ou subemprego da categoria provoca frustração profissional e desvalorização da carreira, comprometendo diretamente o retorno do investimento social e privado realizado na educação superior.
 
-## Pergunta principal
+## Pergunta Principal
 
-Como as barreiras de empregabilidade dos recém-formados em Ciências Econômicas afetam a
-
+Como as barreiras de empregabilidade dos recém-formados em Ciências Econômicas afetam a dinmização
 da economia local e de que forma a atuação institucional do CORECON-PB pode
-
 mitigar esse problema?
 
-## Pergunta Secundária
+## Secundaria
 
 Quais são as principais lacunas de ferramentas técnicas e habilidades práticas identificadas pelos egressos da UFPB, e de que maneira elas impactam o alinhamento com as exigências das vagas de no mercado de trabalho paraibano?
 
@@ -35,7 +33,7 @@ Com base no problema de pesquisa apresentado, formulam-se as seguintes hipótese
 
 - \- H2: Coloca-se em exame a proposição de que a eficácia da atuação institucional do CORECON-PB na mitigação desse cenário está diretamente condicionada à capacidade de articular parcerias com o setor produtivo, ofertar capacitações direcionadas ao mercado paraibano e exercer a fiscalização de vagas.
 
-## Delimitação do Estudo:
+## DelimitaçãodoEstudo
 
 Unidade de Análise, População, Território e Recortes A unidade de análise deste estudo compreende os egressos do curso de Ciências Econômicas e a estrutura das ações institucionais promovidas pelo Conselho Regional de Economia da Paraíba (CORECON-PB).
 
@@ -49,7 +47,7 @@ Tabela 1
 Territério e Recortes A unidade de andlise deste estudo
 
 
-| Conceito Central |   |   |   |   |   |   |   |   |   |   |   |   |   | Fontes Potenciais |   |   |   |
+| Conceito Central |   |   |   |  Variáveis(O que examinar) |   |   |   |  Indicadores (Como medir) |   |   |   |   |   | FontesPotenciais |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |   |   |   |   | Variáveis (O que examinar) |   |   |   | Indicadores (Como medir) |   |   |   |   |   | (Como coletar) |   |   |   |
 | Barreiras de Empregabilidade |   | « | Mercado |   | no Descompasso de |   |   | « Tempo de busca por emprego (em meses) |   |   |   | (2024-2026) |   | * Questionario com os recém-formados |   |   |   |
